@@ -112,7 +112,7 @@ git remote add origin https://github.com/Underwaterbet023/Classification-Machine
 git push -u origin main
 ```
 
-## 📞 Contact
+## 📞 Contact Us
 Feel free to reach out!
 
 - [![GitHub](https://img.shields.io/badge/GitHub-Underwaterbet023-181717?style=flat&logo=github)](https://github.com/Underwaterbet023)
